@@ -1,1 +1,1 @@
-# newAlkoholicCalendar
+https://belkololol.github.io/newAlkoholicCalendar/
