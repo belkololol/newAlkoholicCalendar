@@ -1,1 +1,1 @@
-https://belkololol.github.io/newAlkoholicCalendar/
+**Demo:** https://belkololol.github.io/newAlkoholicCalendar/
